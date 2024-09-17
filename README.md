@@ -7,4 +7,9 @@ A passionate final-year BTech CSE student 💻 with a strong focus on full-stack
 Whether it's working with the MERN stack 🌱, developing a task manager app 📋, or designing QuickDocMeet—an online appointment booking platform for doctors 🏥—I thrive on tackling complex challenges. Let's connect and build something great together! 🤝
 
 # 📫 How to reach me:
-[linkedin](https://www.linkedin.com/in/pranav-soni-93889b229/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-soni-93889b229/)
+
+[![Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavsoni2702@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pranavsonnii/)
