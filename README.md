@@ -13,9 +13,14 @@ Whether it's working with the MERN stack 🌱, developing a task manager app �
 </a>
 
 <a href="mailto:pranavsoni2702@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="50" height="50" style="margin-right: 50px;"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="50" height="50" style="margin-right: 30px;"/>
 </a>
 
 <a href="https://www.instagram.com/pranavsonnii/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/>
 </a>
+
+
+# 👥 Follow me on GitHub
+
+![GitHub followers](https://img.shields.io/github/followers/pranavsoni27?style=social)
