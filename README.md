@@ -8,8 +8,14 @@ Whether it's working with the MERN stack 🌱, developing a task manager app �
 
 # 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-soni-93889b229/)
+<a href="https://www.linkedin.com/in/pranav-soni-93889b229/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50" style="margin-right: 50px;"/>
+</a>
 
-[![Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavsoni2702@gmail.com)
+<a href="mailto:pranavsoni2702@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="50" height="50" style="margin-right: 50px;"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pranavsonnii/)
+<a href="https://www.instagram.com/pranavsonnii/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/>
+</a>
