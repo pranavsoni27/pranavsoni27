@@ -8,7 +8,7 @@ Whether it's working with the MERN stack 🌱, developing a task manager app �
 
 # 📫 Get in touch with me:
 
-<a href="https://www.linkedin.com/in/pranav-soni-93889b229/" target="_blank">
+<a href="https://www.linkedin.com/in/pranavsoni27/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50" style="margin-right: 50px;"/>
 </a>
 
