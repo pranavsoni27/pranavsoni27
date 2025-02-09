@@ -8,7 +8,17 @@
 
 I’m a passionate final-year BTech CSE student with a strong focus on **full-stack web development**, specializing in frontend/backend technologies like **React.js** and **Node.js**. My journey in tech has been shaped by numerous personal projects, including crafting dynamic, responsive websites and innovative applications. I thrive on tackling complex challenges and pushing the boundaries of what's possible.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PranavSoni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranavsoni27/)  [![Email](https://img.shields.io/badge/Email-pranavsoni2702@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pranavsoni2702@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-PranavSonnii-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/pranavsonnii/)
+<a href="https://www.linkedin.com/in/pranavsoni27/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-PranavSoni-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<a href="mailto:pranavsoni2702@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-pranavsoni2702@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+
+<a href="https://www.instagram.com/pranavsonnii/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-PranavSonnii-purple?style=for-the-badge&logo=instagram" alt="Instagram">
+</a>
 
 👥 Follow Me on GitHub  ![GitHub followers](https://img.shields.io/github/followers/pranavsoni27?style=social)  
 
